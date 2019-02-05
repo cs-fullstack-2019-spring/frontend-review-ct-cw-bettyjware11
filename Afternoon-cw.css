@@ -1,0 +1,32 @@
+td  {
+
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 65px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    :hover: border:grey;
+
+}
+.vertical {
+    border-left:1px solid black;
+    border-right:1px solid black;
+}
+
+.horizontal {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+/*Exercise1-- code added to display a grey border around a game once the mouse hovers over it*/
+:hover  {
+    background: grey;
+}
