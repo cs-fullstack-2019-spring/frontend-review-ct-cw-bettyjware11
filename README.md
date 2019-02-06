@@ -1,3 +1,6 @@
+### POINTS: 1
+### Great comments, but did not detect wins or CATs
+
 # Frontend Review CT complete CW
 
 ### Exercise 1:
